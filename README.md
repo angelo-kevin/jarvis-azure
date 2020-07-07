@@ -2,7 +2,7 @@
 
 Win Hack.Asia &lt;3
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
+This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from a user and does some API requests.
 
 ## Prerequisites
 
